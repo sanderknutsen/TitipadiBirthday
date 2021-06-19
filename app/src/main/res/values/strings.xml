@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">TitipadiBirthday</string>
+    <string name="button_to_open_gift">Button to open gift</string>
+    <string name="trykk_for_apne">Trykk på gaven for å åpne</string>
 </resources>

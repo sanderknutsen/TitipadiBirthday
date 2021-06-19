@@ -1,3 +1,14 @@
 <resources>
     <string name="app_name">TitipadiBirthday</string>
+    <string name="button_to_open_gift">Button to open gift</string>
+    <string name="trykk_for_apne">Trykk på gaven for å åpne</string>
+    <string name="text1">Gratulere så masse med dagen kjære!</string>
+    <string name="text2">Eg håpe du får en amazing dag</string>
+    <string name="text3">Når me e i Sandnes ska eg ta deg med til denne plassen!</string>
+    <string name="text4">Middag og hage-date</string>
+    <string name="text5">Eg elske deg!!</string>
+    <string name="text6">You nah me source of happiness</string>
+    <string name="text7">Glede meg til å se deg igjen *KISS*</string>
+    <string name="text8">Her e et bilde av litt av meg, i tilfelle du har glemt koss eg ser ut</string>
+    <string name="text9">Og her e et bilde av verdens søteste par</string>
 </resources>

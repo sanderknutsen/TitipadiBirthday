@@ -1,3 +1,8 @@
 package com.example.android.titipadibirthday.model
 
-class Enhet(val stringResourceId: Int)
+import androidx.annotation.DrawableRes
+import androidx.annotation.StringRes
+
+class Enhet(
+    @StringRes val stringResourceId: Int,
+    @DrawableRes val imageResourceId: Int)

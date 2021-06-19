@@ -12,7 +12,9 @@ class Datasource {
             Enhet(R.string.text4, R.drawable.image4),
             Enhet(R.string.text5, R.drawable.image5),
             Enhet(R.string.text6, R.drawable.image6),
-            Enhet(R.string.text7, R.drawable.image7)
+            Enhet(R.string.text7, R.drawable.image7),
+            Enhet(R.string.text8, R.drawable.image8),
+            Enhet(R.string.text9, R.drawable.image9)
         )
     }
 }

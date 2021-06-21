@@ -25,9 +25,10 @@
         android:layout_marginTop="150dp"
         android:fontFamily="cursive"
         android:text="@string/trykk_for_apne"
-        android:textColor="#E91E63"
+        android:textColor="@color/pink_700"
         android:textSize="25sp"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
+
 </androidx.constraintlayout.widget.ConstraintLayout>
